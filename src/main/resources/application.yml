@@ -1,0 +1,6 @@
+#禁用缓存
+spring:
+  thymeleaf:
+    cache: false
+  messages:
+    basename: i8n.login
